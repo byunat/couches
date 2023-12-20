@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+    color: black
+}
+.img{
+    border: 4px blue;
+    padding: 2%;
+    width: 20%;
+    height: 20%;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+.ol{
+    margin: auto;
+    background-color: rgba(71, 142, 228, 0.5);
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.resume{
+    margin: auto;
+    background-color: rgba(71, 142, 228, 0.5);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -13,13 +13,13 @@ body{
     margin: auto;
 }
 .ol{
-    text-align: center;
+    margin: auto;
     background-color: rgba(71, 142, 228, 0.5);
     font-size: large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .resume{
-    text-align: center;
+    margin: auto;
     background-color: rgba(71, 142, 228, 0.5);
     font-size: large;
     font-family: 'Times New Roman', Times, serif;

@@ -1,14 +1,1 @@
-.centerme{
-    display: block;
-    margin: auto;
-    max-width: 4000px !important;
-    max-height: 4000px !important;
-}
 
-.final{
-    color: blue;
-    text-align: center;
-}
-body{
-    font-style: italic;
-}
